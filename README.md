@@ -1,5 +1,5 @@
 <!-- Presentation -->
-<h1 align= left>Ola galera <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">, Eu sou Joao Vitor</h1>
+<h1 align= left>Ola galera <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">, Eu sou Caio Henrique</h1>
 
 - 🎓 Sou aluno no projeto favela Ware.
 
@@ -25,7 +25,7 @@
 <!-- Analitycs -->
 <h2>Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="35px"> </h2>
 <div align="left">
-   <a href="https://github.com/xvzgabi">
+   <a href="https://github.com/kap212">
    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=xvzgabi&show_icons=true&theme=radical" alt="lucelho github stats"/>    
    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvzgabi&count_private=true&show_icons=true&theme=react&layout=compact&langs_count=6" alt="Gabi github stats"/>   
 </div>
