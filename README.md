@@ -27,7 +27,7 @@
 <div align="left">
    <a href="https://github.com/kap212">
    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=kap212&show_icons=true&theme=dracula" alt="kap212 github stats"/>    
-   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kap212&count_private=true&show_icons=true&theme=react&layout=compact&langs_count=6" alt="Caio github stats"/>   
+   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kap212&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6" alt="Caio github stats"/>   
 </div>
 
 
