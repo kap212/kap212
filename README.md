@@ -26,12 +26,13 @@
 <h2>Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="35px"> </h2>
 <div align="left">
    <a href="https://github.com/kap212">
-   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=kap212&show_icons=true&theme=dracula" alt="kap212 github stats"/>    
-   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kap212&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6" alt="Caio github stats"/>   
+   <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=kap212&show_icons=true&theme=dracula" alt="kap212 github stats"/>    
+   <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kap212&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6" alt="Caio github stats"/>   
 </div>
  
   ##
- 
+  
+ <!-- Contacts -->
 <div> 
       <br><h2>Contact: <img src="https://em-content.zobj.net/source/microsoft-teams/337/telephone-receiver_1f4de.png" width="35px"></h2>
   <a href="https://www.instagram.com/caiohhenriquee/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
