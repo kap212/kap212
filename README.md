@@ -29,5 +29,14 @@
    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=kap212&show_icons=true&theme=dracula" alt="kap212 github stats"/>    
    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kap212&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6" alt="Caio github stats"/>   
 </div>
+ 
+  ##
+ 
+<div> 
+      <br><h2>Contact: <img src="https://em-content.zobj.net/source/microsoft-teams/337/telephone-receiver_1f4de.png" width="35px"></h2>
+  <a href="https://www.instagram.com/caiohhenriquee/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:henrique.caiocardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caio-henrique-a22043279/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+<div>
 
