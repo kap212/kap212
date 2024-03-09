@@ -24,8 +24,8 @@
 <h2>Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="35px"> </h2>
 <div align="left">
    <a href="https://github.com/kap212">
-   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=kap212&show_icons=true&theme=dracula&hide_border=true&ring_color=F15050&title_color=F15050&icon_color=F7AE30&card_wildth=250" alt="kap212 github stats"/>    
-   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kap212&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6&hide_border=true&card_wildth=300&title_color=F15050&icon_color=F7AE30" alt="Caio github stats"/>   
+   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=kap212&show_icons=true&theme=dracula&hide_border=true&ring_color=F15050&title_color=F15050&icon_color=F7AE30&card_wildth=250" alt="kap212 github stats"/>    
+   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kap212&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6&hide_border=true&card_wildth=300&title_color=F15050&icon_color=F7AE30" alt="Caio github stats"/>   
 </div>
  
   ##
