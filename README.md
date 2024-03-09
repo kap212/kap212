@@ -1,18 +1,16 @@
 <!-- Presentation -->
-<h1 align= left>Ola galera <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">, Eu sou Caio Henrique</h1>
+<h1 align= left>Hello World <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">, I'm Caio Henrique</h1>
 
-- 🎓 Sou aluno no projeto favela Ware.
+- 🎓 I'm a student at the Favela Ware project.
 
-- 👨‍🏫 Eu participo do projeto chamado favela ware, Uma iniciativa para treinar jovens programadores de 16 a 22 anos.<a href="https://favelaware.animahub.com.br/sobre" target="blank"> Clique aqui</a>
+- 👨‍🏫 I participate in the project called Favela Ware, an initiative to train young programmers aged 16 to 22.<a href="https://favelaware.animahub.com.br/sobre" target="blank"> Click here</a>
 
-- 🚀 Curiosidades sobre min: adoro jogar é sair com pra comer.
-
-- 📊 Sou muito engraçado e participativo.
+- 🚀 Fun facts about me: I love playing hard games
 
 <br><br>
 
 <!-- Skills -->
-<h2 align="left"> Linguagens: <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="40px"> </h2>
+<h2 align="left"> Languages: <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="40px"> </h2>
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
@@ -26,8 +24,8 @@
 <h2>Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="35px"> </h2>
 <div align="left">
    <a href="https://github.com/kap212">
-   <img height="140rem" src="https://github-readme-stats.vercel.app/api?username=kap212&show_icons=true&theme=dracula" alt="kap212 github stats"/>    
-   <img height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kap212&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6" alt="Caio github stats"/>   
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kap212&show_icons=true&theme=dracula&hide_border=true&ring_color=F15050&title_color=F15050&icon_color=F7AE30" alt="kap212 github stats"/>    
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kap212&count_private=true&show_icons=true&theme=dracula&layout=compact&langs_count=6&hide_border=true&card_wildth=300&title_color=F15050&icon_color=F7AE30" alt="Caio github stats"/>   
 </div>
  
   ##
